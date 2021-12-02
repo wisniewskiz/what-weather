@@ -1,0 +1,11 @@
+{
+  "name": "what-weather",
+  "version": "1.0.0",
+  "description": "responsive site that uses api calls to get weather information from searched city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zachary edward",
+  "license": "ISC"
+}
